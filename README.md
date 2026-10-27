@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Moraes - Desenvolvedor Front End 👋
+### Olá, eu sou o Gabriel Carvalho - Professor universitário, Consultor de IA e Governança e desenvolvedor
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-moraes-1a9b64239)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gmc_gabriel)
@@ -15,5 +15,5 @@
 
 <br/>
 
-Apaixonado por tecnologia, educação e agora estou me lançando em uma nova aventura como Desenvolvedor Front End. Com um coração cheio de entusiasmo e uma mente cheia de conhecimentos técnicos, estou pronto para começar a criar e aprender nesse universo incrível do desenvolvimento front end.
+
 
